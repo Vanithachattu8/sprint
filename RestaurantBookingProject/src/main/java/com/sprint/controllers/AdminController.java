@@ -19,7 +19,6 @@ import com.sprint.exceptions.BookingNotFoundException;
 import com.sprint.exceptions.CustomerNotFoundException;
 import com.sprint.exceptions.InvalidCredentialsException;
 import com.sprint.exceptions.InvalidEmailPasswordException;
-import com.sprint.exceptions.TransactionRecordNotFoundException;
 import com.sprint.models.Admin;
 import com.sprint.models.Booking;
 import com.sprint.models.Customer;

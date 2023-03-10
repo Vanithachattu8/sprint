@@ -19,6 +19,6 @@ public class RestaurantProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestaurantProjectApplication.class, args);
 	
-	System.out.println("Chattu");
+	System.out.println("vanitha");
 	}
 }

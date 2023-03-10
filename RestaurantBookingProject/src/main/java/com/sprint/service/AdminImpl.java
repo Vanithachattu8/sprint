@@ -1,13 +1,13 @@
 package com.sprint.service;
 
-import java.util.regex.Pattern;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.sprint.exceptions.CustomerNotFoundException;
 import com.sprint.exceptions.InvalidCredentialsException;
-import com.sprint.exceptions.InvalidEmailPasswordException;
+
 import com.sprint.models.Admin;
 import com.sprint.models.Customer;
 import com.sprint.repository.AdminRepository;
